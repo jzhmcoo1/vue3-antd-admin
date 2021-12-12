@@ -1,0 +1,11 @@
+.actions[data-v-0e4dbabe] {
+  display: none;
+  float: right;
+}
+.actions[data-v-0e4dbabe] >  span {
+  margin-left: 5px;
+}
+.actions[data-v-0e4dbabe] >  span:hover {
+  color: #40a9ff;
+}
+

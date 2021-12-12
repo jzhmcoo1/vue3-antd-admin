@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvue3_antd_admin=self.webpackChunkvue3_antd_admin||[]).push([[3882,6595],{84991:function(e,n,u){u.r(n),u.d(n,{DynamicTable:function(){return a.default},TableQueryHeader:function(){return t.default}});var a=u(86088),t=u(90746)}}]);

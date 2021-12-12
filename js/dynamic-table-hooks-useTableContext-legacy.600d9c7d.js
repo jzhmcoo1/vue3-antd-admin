@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvue3_antd_admin=self.webpackChunkvue3_antd_admin||[]).push([[2386],{70029:function(n,e,t){t.r(e),t.d(e,{createTableContext:function(){return r},useTableContext:function(){return c}});t(82526),t(41817),t(41539);var u=t(66252),a=Symbol("dynamic-table");function r(n){(0,u.JJ)(a,n.proxy)}function c(){return(0,u.f3)(a)}}}]);

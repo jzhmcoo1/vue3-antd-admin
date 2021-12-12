@@ -1,0 +1,98 @@
+.table-search[data-v-1f73bd71] {
+  margin-bottom: 16px;
+  padding: 24px 24px 0;
+  background: #fff;
+}
+.search-submitButtons[data-v-1f73bd71] {
+  display: block;
+  margin-bottom: 24px;
+  white-space: nowrap;
+}
+[data-v-1f73bd71] .ant-row {
+  width: 100%;
+}
+[data-v-1f73bd71] .ant-form-item {
+  margin-right: 0;
+}
+[data-v-1f73bd71] .ant-form-item.operate-button {
+  margin-bottom: 0;
+}
+.collapse-icon[data-v-1f73bd71] {
+  transform: rotate(var(--69857300));
+  transition: transform 0.3s;
+}
+
+.title[data-v-1529682c] {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: 500;
+  font-size: 16px;
+}
+
+[data-v-20895536] .ant-table-wrapper {
+  padding: 0 6px 6px 6px;
+}
+[data-v-20895536] .ant-table-wrapper .ant-table .ant-table-title {
+  display: flex;
+}
+[data-v-20895536] .ant-table-wrapper .ant-table .ant-btn {
+  margin-right: 10px;
+}
+.actions > *[data-v-20895536] {
+  margin-right: 10px;
+}
+
+.select-box[data-v-257ee720] {
+  display: -ms-grid;
+  display: grid;
+  height: 300px;
+  overflow: auto;
+  grid-template-columns: repeat(9, minmax(0, 1fr));
+}
+.select-box-item[data-v-257ee720] {
+  display: flex;
+  margin: 2px;
+  padding: 6px;
+  border: 1px solid #e5e7eb;
+}
+.select-box-item[data-v-257ee720]:hover, .select-box-item.active[data-v-257ee720] {
+  --tw-border-opacity: 1;
+  border-color: rgba(2, 132, 199, var(--tw-border-opacity));
+}
+.check-row[data-v-181ff138] {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+.check-row .label[data-v-181ff138] {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.check-row .arrow[data-v-181ff138] {
+  position: absolute;
+  right: 10px;
+}
+.input-box[data-v-5cdcbb9b] {
+  display: flex;
+}
+.input-box .clear-icon[data-v-5cdcbb9b] {
+  display: none;
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.input-box:hover .clear-icon[data-v-5cdcbb9b] {
+  display: block;
+}
+.input-box[data-v-5cdcbb9b] .ant-input-prefix {
+  width: 100%;
+  flex-wrap: wrap;
+}
+.input-box .tag-item[data-v-5cdcbb9b] {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}

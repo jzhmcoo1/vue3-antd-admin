@@ -1,0 +1,16 @@
+.box[data-v-2c220c1b] {
+  display: flex;
+  padding: 12px;
+  width: 100%;
+  height: calc(100vh - 280px);
+  flex-direction: column;
+  background-color: white;
+}
+.box img[data-v-2c220c1b] {
+  min-height: 0;
+  flex: 1;
+}
+.box .ant-form[data-v-2c220c1b] {
+  flex: 2;
+}
+
